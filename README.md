@@ -1,3 +1,30 @@
+### Hey there! I'm a Data Enthusiast 👋  
+
+I'm a 3rd-year student in **Data Engineering & Analysis**.  
+I love working with data, exploring new tools, and learning constantly!
+
+---
+
+### 🚀 Interests & Goals
+- Data Engineering
+- Data Warehousing
+- Data Analysis
+- Building cool things with data
+
+---
+
+### 🧠 Currently Learning:
+- ❄️ Snowflake  
+- 📊 Power BI  
+- 📈 Tableau  
+
+---
+
+### 🎮 About Me  
+When I’m not wrangling data, you’ll probably find me gaming or diving into something new to learn.  
+I’m excited to keep growing in the data space and contribute to meaningful projects!
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karol-szeląg-384b42242) 
