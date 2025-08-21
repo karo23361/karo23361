@@ -16,7 +16,7 @@ I love working with data, exploring new tools, and learning constantly!
 ### 🧠 Currently Learning:
 - ❄️ Snowflake  
 - 📊 Power BI  
-- 📈 Analysis Techniques  
+- 📈 dbt  
 - 💨 Apache Airflow
 - 🐼 Pandas
 - 🧹 Data Cleansing
