@@ -13,12 +13,9 @@ I love working with data, exploring new tools, and learning constantly!
 
 ---
 
-### 🧠 Currently Learning:
-- ❄️ Snowflake  
-- 📊 Power BI   
-- 💨 Apache Airflow
-- 🐼 Pandas
-- 🧹 Data Cleansing
+### 🧠 Currently Learning:   
+- ☁️ Azure Cloud
+- 🧹 Data Cleansing (Python / PySpark)
 ---
 
 ### 🎮 About Me  
